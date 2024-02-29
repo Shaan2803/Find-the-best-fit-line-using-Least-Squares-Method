@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-02-20 at 11 34 40_2082234b](https://github.com/Shaan2803/Find-the-best-fit-line-using-Least-Squares-Method/assets/160568486/265428ca-5fde-4b3c-9bce-cbe0d6e3e3c7)# Implementation of Univariate Linear Regression
+HAA![WhatsApp Image 2024-02-20 at 11 34 40_2082234b](https://github.com/Shaan2803/Find-the-best-fit-line-using-Least-Squares-Method/assets/160568486/265428ca-5fde-4b3c-9bce-cbe0d6e3e3c7)# Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -20,8 +20,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by:ABIJITH SHAAN S
+RegisterNumber:212223080002 
 */import numpy as np
 import matplotlib.pyplot as plt 
 x = np.array([0,1,2,3,4,5,6,8,9,10])
